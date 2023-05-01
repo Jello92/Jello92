@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7bd3f7&height=300&section=header&text=Hello,%20I%20am%20Jay!&animation=fadeIn&fontSize=90"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFFF00&height=300&section=header&text=Hello,%20I%20am%20Jay!&animation=fadeIn&fontSize=90"/>
 
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
@@ -33,7 +33,7 @@
 <br>
 
 <div align = "center" dir="auto">
- <img class="img" src="https://github-readme-stats.vercel.app/api?username=Jello92&show_icons=true&theme=radical" /><br>
+ <img class="img" src="https://github-readme-stats.vercel.app/api?username=Jello92&show_icons=true&theme=yeblu" /><br>
   <br>
- <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jello92&theme=radical&layout=compact" />
+ <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jello92&theme=yeblu&layout=" />
 </div>
