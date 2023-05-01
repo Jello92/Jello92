@@ -39,7 +39,7 @@
 <br>
 
 <div align = "center" dir="auto">
- <img class="img" src="https://github-readme-stats-2kw2-jello92.vercel.app/api?username=Jello92&show_icons=true&theme=yeblu" /><img class="img" src="https://github-readme-stats-2kw2-jello92.vercel.app/api/top-langs/?username=Jello92&theme=yeblu&layout=default&count_private=true"/>
+ <img class="img" src="https://github-readme-stats-2kw2-jello92.vercel.app/api?username=Jello92&show_icons=true&theme=yeblu" /><img class="img" src="https://github-readme-stats-2kw2-jello92.vercel.app/api/top-langs/?username=Jello92&theme=yeblu&layout=default&count_private=true" width= "41%"/>
 </div>
 
 <!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jayji92)](https://solved.ac/jayji92/) -->
